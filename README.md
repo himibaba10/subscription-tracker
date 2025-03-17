@@ -1,5 +1,3 @@
-Sure! Here’s a `README.md` file that you can copy and paste directly:
-
 ````markdown
 # Initial Express Server
 
